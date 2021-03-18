@@ -1,7 +1,8 @@
 # Ticket-System
-Calculate average grades for homework, recitation, and course
+Built a program to sell FSU Football Tickets
 
-Calculate and display the user's homework average, their test average, and their final course percentage.
-Print these values out to two decimal places.
-Use either a switch statement or an if/else if block to determine what letter grade the user earned
-based on their final course grade percentage. See the course syllabus for the letter grade breakdowns.
+1. To practice with writing a small C++ main() program, along with
+compiling and running it.
+2. To practice with basic C++ input/output features, along with some
+simple decimal formatting
+3. To practice with basic arithmetic operators in C++
