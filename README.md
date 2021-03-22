@@ -6,3 +6,5 @@ compiling and running it.
 2. To practice with basic C++ input/output features, along with some
 simple decimal formatting
 3. To practice with basic arithmetic operators in C++
+
+Class: INTRO TO PROGRAMMING
