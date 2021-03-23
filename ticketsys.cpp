@@ -1,5 +1,4 @@
 /*
-Name: Sabrina Pinera
 Date: 09/10/2018
 Section: Section 5
 Assignment: Assignment #1
@@ -10,8 +9,7 @@ About this Project:
 	simple decimal formatting
 	3. To practice with basic arithmetic operators in C++
 Assumptions: assumes correct user input and calculation
-
-All work below was performed by Sabrina Pinera*/
+*/
 
 #include <iostream>
 #include <iomanip>
